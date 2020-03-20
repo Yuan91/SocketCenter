@@ -1,0 +1,16 @@
+PODS:
+  - SocketCenter (0.1.0)
+
+DEPENDENCIES:
+  - SocketCenter (from `../`)
+
+EXTERNAL SOURCES:
+  SocketCenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SocketCenter: 710deb05f574014f67e4c13b13549714c06e3a7c
+
+PODFILE CHECKSUM: 91526b7afd934c75670543369db65f792afb2d87
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,6 @@
+framework module SocketCenter {
+  umbrella header "SocketCenter-umbrella.h"
+
+  export *
+  module * { export * }
+}
